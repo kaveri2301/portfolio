@@ -1,0 +1,22 @@
+.togglebtn {
+    position: fixed;
+    right: 15px;
+    /* top: 15px; */
+
+}
+
+@media (max-width:991px) {
+    .mainpage {
+        position: fixed;
+        /* margin-top: -100px; */
+        padding: 20px;
+        left: 20px;
+        top: 80px;
+        right: 20px;
+        bottom: 10px;
+        border: none;
+        background-color: white;
+        border-radius: 20px;
+
+    }
+}

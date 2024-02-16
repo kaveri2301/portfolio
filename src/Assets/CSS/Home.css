@@ -1,0 +1,22 @@
+.parallax {
+    /* The image used */
+    background-image: url("../Images/hero-bg.jpg") ;
+    background-size: cover;
+     width: 100%;
+     min-height: 75vh;  
+     
+     
+    /* Create the parallax scrolling effect */
+      /* background-attachment: fixed;  
+     background-position: center;   */
+    /* background-repeat: no-repeat;  */
+     
+  }
+   .navig{
+    position: fixed;
+     top: 0; 
+     right: 0; 
+     left: 0; 
+     z-index: 1;
+  } 
+ 

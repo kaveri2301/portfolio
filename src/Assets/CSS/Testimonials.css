@@ -1,0 +1,14 @@
+.backtest{
+    background:linear-gradient(180deg, #f2f6f9 0%, #fff 100%);
+    
+}
+
+
+.backimg{
+    height: 100px;
+    width: 100px;
+    border: 1px solid none ; 
+    background-color: aliceblue;
+     border-radius: 50px;     
+    
+}

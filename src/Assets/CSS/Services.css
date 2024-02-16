@@ -1,0 +1,40 @@
+.backservices{
+    background:linear-gradient(180deg, #f2f6f9 0%, #fff 100%);
+    
+}
+.cardicon{
+    height: 60px;
+    width: 60px;
+    border-radius: 50px;
+    background-color:#d43076;
+    color:white ;
+    
+}
+.cardmain{
+    box-shadow: inset 0 0 0 0 #d43076;
+  color: black;
+  padding: 0 .25rem;
+  margin: 0 -.25rem;
+  transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+}
+.cardmain:hover{
+    /* background-color:#d43076 ; */
+    box-shadow: inset 0 300px 0 0 #d43076;
+
+}
+.cardmain:hover .cardicon{
+    color:#d43076 ;
+    background-color: white;
+    
+}
+
+.cardmain:hover .service{
+   color: white;
+    
+}
+
+.cardmain:hover .data{
+    color: white;
+     
+ }
+ 
